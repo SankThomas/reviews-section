@@ -9,7 +9,7 @@ export default function Reviews() {
         <div className="lg:grid grid-cols-2 gap-5">
           <div className="lg:grid grid-cols-2">
             <article>
-              <h4 className="font-bold text-gray-900 text-4xl mb-1 text-gray-800 text-center lg:text-left">
+              <h4 className="font-bold text-4xl mb-1 text-gray-800 text-center lg:text-left">
                 4.9
               </h4>
               <ul className="flex mb-1 items-center justify-center lg:justify-start">
